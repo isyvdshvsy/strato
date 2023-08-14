@@ -9,7 +9,7 @@
     <uses-feature
         android:name="android.hardware.vulkan.version"
         android:required="true"
-        android:version="0x401000" />
+        android:version="0x401200" />
 
     <application
         android:name=".SkylineApplication"
